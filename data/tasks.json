@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "description": "learn",
+        "subject": "python",
+        "priority": "Medium",
+        "deadline": "07-02-2026",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "description": "Phy Hw",
+        "subject": "Physics",
+        "priority": "High",
+        "deadline": "30 09 2026",
+        "status": "Pending"
+    }
+]
